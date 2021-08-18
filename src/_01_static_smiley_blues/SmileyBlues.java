@@ -1,11 +1,14 @@
 package _01_static_smiley_blues;
 
+import javax.swing.JFrame;
+
 public class SmileyBlues {
 	void start() {
 		// 1. Make a new JFrame and set it to be visible
-
+JFrame Lester = new JFrame();
+Lester.isVisible();
 		// 2. Set your frame's default close operation to JFrame.EXIT_ON_CLOSE
-
+Lester.
 		// 3. Make a new JPanel
 
 		// 4. Add your panel to your frame
